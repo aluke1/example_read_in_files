@@ -61,4 +61,4 @@ for fnum in range(num_files): #create loop to iterate over file numbers (check r
 #now data is stored in a list, where you can access each dataframe using the index of the file_name_list to access 
 #the corresponding data in the data list: 
 
-print("data frame corresponding to file1.csv (list structure, no file name list):", data_list[0] )
+print("data frame corresponding to file1.csv (list structure, no file name list):", data_list2[0] )
